@@ -1,5 +1,5 @@
-public with sharing class testApexPipeline {
-    public testApexPipeline() {
+public with sharing class TestApexPipeline {
+    public TestApexPipeline() {
 
     }
 }
